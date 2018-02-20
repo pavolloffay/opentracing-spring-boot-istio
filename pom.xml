@@ -24,7 +24,7 @@
 		<java.version>1.8</java.version>
 
 		<version.opentracing>0.31.0</version.opentracing>
-		<version.opentracing.spring>0.1.0</version.opentracing.spring>
+		<version.opentracing.spring>0.1.4</version.opentracing.spring>
 		<version.jaeger>0.24.0</version.jaeger>
 	</properties>
 
