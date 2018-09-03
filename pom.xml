@@ -25,7 +25,7 @@
 
 		<version.opentracing>0.31.0</version.opentracing>
 		<version.opentracing.spring>0.1.4</version.opentracing.spring>
-		<version.jaeger>0.24.0</version.jaeger>
+		<version.jaeger>0.27.0</version.jaeger>
 	</properties>
 
 	<dependencies>
@@ -45,7 +45,7 @@
 			<version>${version.opentracing.spring}</version>
 		</dependency>
 		<dependency>
-			<groupId>com.uber.jaeger</groupId>
+			<groupId>io.jaegertracing</groupId>
 			<artifactId>jaeger-core</artifactId>
 			<version>${version.jaeger}</version>
 		</dependency>
